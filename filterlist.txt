@@ -1,0 +1,17 @@
+! Title: Custom Filterlist
+! Expires: 1 days
+! Version: 3
+
+hiyobi.me##[alt="ad"]
+
+smpeople.net##.left_side_banner
+smpeople.net##.side_banner
+smpeople.net##.ada
+smpeople.net###trip
+smpeople.net##.ska
+smpeople.net##.drug
+
+sora1.la##.wrap>a
+sora1.la##.mobile-100.page-70>a
+
+gelbooru.com##.contain-push>div:not(.thumbnail-preview)
