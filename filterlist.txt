@@ -11,5 +11,5 @@ smpeople.net###trip
 smpeople.net##.ska
 smpeople.net##.drug
 
-sora1.la##.wrap>a
-sora1.la##.mobile-100.page-70>a
+sora2.la##.wrap>a
+sora2.la##.mobile-100.page-70>a
