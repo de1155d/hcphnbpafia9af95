@@ -6,9 +6,7 @@ hiyobi.me##[alt="ad"]
 
 smpeople.net##.left_side_banner
 smpeople.net##.side_banner
-smpeople.net##.ada
-smpeople.net###trip
-smpeople.net##.ska
+smpeople.net##.boxer
 smpeople.net##.drug
 
 sora2.la##.wrap>a
