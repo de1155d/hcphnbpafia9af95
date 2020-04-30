@@ -8,6 +8,7 @@ smpeople.net##.left_side_banner
 smpeople.net##.side_banner
 smpeople.net###boxer
 smpeople.net##.drug
+smpeople.net##body>.fancybox-wrap
 
 sora2.la##.wrap>a
 sora2.la##.mobile-100.page-70>a
